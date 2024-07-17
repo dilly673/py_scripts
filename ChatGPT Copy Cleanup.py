@@ -11,7 +11,7 @@ def chatgptcleanup(input_char):
     return gpt_cleanup
          
 
-#Example
+#Insert Prompt Here
 
 copy_gpt = '''
 
